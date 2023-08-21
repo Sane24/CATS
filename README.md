@@ -1,4 +1,3 @@
 # CATS
-typeracer
+typeracer (CS Autocorrected Typing Software)
 
-CS Autocorrected Typing Software
